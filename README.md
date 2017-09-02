@@ -1,7 +1,12 @@
 
 # Gunmetal
 
-A fork of vanilla, a theme provided with [ivy](https://github.com/dmulholland/ivy).
+A fork of gunmetal, a theme for ivy.
+
+## Changes:
+
+- Use Fira Sans mostly for Headings
+- Use Noto Serif for everything else
 
 
 ## Include Files
